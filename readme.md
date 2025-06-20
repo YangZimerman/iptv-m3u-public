@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/YangZimerman/iptv-m3u-public/refs/heads/main/international.m3u
