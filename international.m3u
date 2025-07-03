@@ -1,7 +1,41 @@
-#EXTINF:-1 group-title="Undefined",BBC Top Gear
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/t/27/topgear.svg" group-title="Undefined",BBC Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Sport",Tennis Channel [US]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" group-title="Sport",TENNIS CHANNEL 2
+https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
+
+#EXTINF:-1  group-title="Movie" tvg-logo="",美亚C+
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9AC%2B&t=1751360581&token=7bb53dcf160bfe85bf7736df02f82342
+
+#EXTINF:-1  group-title="Movie" tvg-logo="",美亚电影
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1751360581&token=e0e986c444701e2630a540ff56401367
+
+#EXTINF:-1  group-title="Movie" tvg-logo="",星卫电影
+https://stream.iptv-search.com/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1751360581&token=92456174b1512cfd8c133600fc30b107
+
+#EXTINF:-1  group-title="Movie" tvg-logo="",粤语电影3
+https://stream.iptv-search.com/main.php?id=%E7%B2%A4%E8%AF%AD%E7%94%B5%E5%BD%B13&t=1751360581&token=691bfee3cbf4430031058670ea5a8893
+
+#EXTINF:-1  group-title="Movie" tvg-logo="",纬来电影台
+https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1751360581&token=ad325d1e180d32c189ea37a058ccba5a
+
+#EXTINF:-1  group-title="Sport" tvg-logo="",Skynews
+https://stream.iptv-search.com/main.php?id=Skynews&t=1751360581&token=ab54b41a18f8db62cfcd3c71b438e07c
+
+#EXTINF:-1  group-title="Sport" tvg-logo="",SKY SPORTS F1
+https://stream.iptv-search.com/main.php?id=SKY+SPORTS+F1&t=1751360581&token=1c5a482adea05c4591ee2da69908a640
+
+#EXTINF:-1  group-title="Sport" tvg-logo="",SKY SPORTS FOOTBALL
+https://stream.iptv-search.com/main.php?id=SKY+SPORTS+FOOTBALL&t=1751360581&token=45536b9bf5c55d8ce0a7e51a0d8644e5
+
+#EXTINF:-1  group-title="Sport" tvg-logo="",Skysports Main Event
+https://stream.iptv-search.com/main.php?id=Skysports+Main+Event&t=1751360581&token=e9dedfda039305a252bdf2aea8f6bfed
